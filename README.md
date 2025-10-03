@@ -3,4 +3,5 @@ This repository contains my Power-bi project, The title of this project is "call
 The process involved was importing the dataset into powerbi, transforming and editing in on power query, and then visualizing it.
 
 ![Call center Dashboard](Call_center_dashboard.png)
+![Call center Dashboard](Call_center_dashboardc.png)
 
